@@ -1,2 +1,11 @@
 # Semestre-2026-1
-Este es un repositorio para la clase de Robotica grupo 2 semestre 2026-1 que la imparte Roberto Angeles Garcia Garcia
+Este es un repositorio para la clase de Robotica 
+Grupo 2 
+Semestre 2026-1 
+Progesor: Roberto Angeles Garcia Garcia7
+
+Integrantes:
+Hernandez Leyva Eduardp
+Medellin Perez Estefania
+Sanchez Perea Miguel Angel
+Toledo Rodriguez Yahir
